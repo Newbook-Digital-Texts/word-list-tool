@@ -1,6 +1,6 @@
 # svoboda-diaries-word-search
 
-A tool for the [Svoboda Diaries](https://depts.washington.edu/svobodad/) transcribers at NELC, which will assist them to search for partial words and get most commonly used words in the previous diaries. It will substantially reduce transcribing time and misspelt words/mistakes.
+A tool for the [Svoboda Diaries Project](https://depts.washington.edu/svobodad/) transcribers, which will assist them to search for partial words and get most commonly used words in the previous diaries. It will substantially reduce transcribing time and misspelt words/mistakes.
 
 **Online: [http://wl.anotchortwo.com/](http://wl.anotchortwo.com/)**
 
@@ -35,3 +35,5 @@ words-sql.txt has been provided to quickly add all words to your SQL table.
 
 ## Copyright and license
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Author: Sukhman Dillion
